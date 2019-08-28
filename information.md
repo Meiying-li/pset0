@@ -4,11 +4,11 @@ Fill in your personal information and commit the changes with a meaningful commi
 
 * Name: Meiying
 
-* USC email address:
+* USC email address: limeiyin@usc.edu
 
-* PhD program:
+* PhD program: Sociology
 
-* Research interests (5 keywords):
+* Research interests (5 keywords): Social stratification, gender inequality, family
 
-* What you had for lunch today:
+* What you had for lunch today: Tacos
 
